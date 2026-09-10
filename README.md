@@ -234,3 +234,6 @@ This repository serves as the official landing page for Power Soccer. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Power Soccer today!**
+
+---
+**Last updated:** 2026-09-10 14:10:20 UTC
